@@ -1,14 +1,12 @@
 <h1 align="left">Olá! Eu sou o Gabriel Muzaranho</h1>
 
 ###
-- 📚 Hoje cursando Desenvolvimento de Sistemas<br>
-- 🐍 Aprendendo python<br>
+- 📚 Hoje cursando Desenvolvimento de Sistemas<br><br>
+- 🐍 Aprendendo python<br><br>
 - ⚡ Sempre buscando conhecimento
-
+- 
 <br>
 <h1 align="left">Tecnologias</h1>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
