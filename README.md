@@ -1,8 +1,8 @@
 <h1 align="left">Olá! Eu sou o Gabriel Muzaranho</h1>
 
 ###
-- 📚 Hoje cursando Desenvolvimento de Sistemas<br><br>
-- 🐍 Aprendendo python<br><br>
+- 📚 Hoje cursando Desenvolvimento de Sistemas<br>
+- 🐍 Aprendendo python<br>
 - ⚡ Sempre buscando conhecimento
 
 <br>
