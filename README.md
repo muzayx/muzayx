@@ -1,11 +1,8 @@
-## Opa! Aqui é o Gabriel Muzaranho
+## Opa! Eu sou o Gabriel Muzaranho
 
 - 📚 Hoje cursando Desenvolvimento de Sistemas
 - 🐍 Aprendendo python
 - ⚡ Sempre buscando conhecimento
-
-
-## Opa! Eu sou o Gabriel Muzaranho
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
