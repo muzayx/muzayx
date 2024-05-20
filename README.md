@@ -2,10 +2,9 @@
 
 ###
 - 📚 Hoje cursando Desenvolvimento de Sistemas<br><br>
-- 🐍 Aprendendo python<br><br>-
+- 🐍 Aprendendo python<br><br>
 - ⚡ Sempre buscando conhecimento
 
-###
 <br>
 
 <h1 align="left">Tecnologias</h1>
