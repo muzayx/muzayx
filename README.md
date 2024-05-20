@@ -4,7 +4,7 @@
 
 <p align="left">- 📚 Hoje cursando Desenvolvimento de Sistemas<br><br>- 🐍 Aprendendo python<br><br>- ⚡ Sempre buscando conhecimento</p>
 
-#
+###
 
 <h1 align="left">Tecnologias</h1>
 
