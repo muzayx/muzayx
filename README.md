@@ -35,6 +35,8 @@
 </div>
 <br>
 
+![snake gif](https://github.com/muzayx/muzayx/blob/output/github-contribution-grid-snake.svg)
+
 <h2 align="left">Contato</h2>
 
 ###
