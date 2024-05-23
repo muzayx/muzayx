@@ -2,8 +2,8 @@
 
 ###
 - 📚 Hoje cursando Técnico em Desenvolvimento de Sistemas<br><br>
-- 🐍 Aprendendo python<br><br>
-- ⚡ Sempre buscando conhecimento
+- 🐍 Aprendendo python e php<br><br>
+- ⚡ Front-end developer
 
 <br>
 
