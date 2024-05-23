@@ -38,13 +38,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muzayx/muzayx/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h1 align="left">Contato</h1>
-
-###
-
-<div> 
-  <a href="https://instagram.com/muza.sx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" target="_blank"></a>
-  <a href = "mailto:muzaranhogabriel2702@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" target="_blank"></a>  
-</div>
-
 ###
