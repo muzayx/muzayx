@@ -9,7 +9,6 @@
 - 🌐 Aprimorando desenvolvimento Web Front-End<br><br>
 - ⚡ Front-end developer
 
-<br>
 
 <h1 align="left">Tecnologias</h1>
 
