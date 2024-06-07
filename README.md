@@ -1,8 +1,5 @@
-<h1 align="left">Gabriel Muzaranho</h1>
+<h1 align="left">Olá Devs! Sou o Gabriel Muzaranho</h1>
 
-###
-
-<h2 align="left">Hello, Devs!</h2>
 
 ###
 - 📚 Hoje cursando Técnico em Desenvolvimento de Sistemas<br><br>
@@ -10,7 +7,7 @@
 - ⚡ Front-end developer
 
 
-<h1 align="left">Tecnologias</h1>
+<h2 align="left">Tecnologias</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -25,7 +22,7 @@
 </div>
 <br>
 
-<h1 align="left">Meus status</h1>
+<h2 align="left">Meus status</h2>
 
 ###
 
