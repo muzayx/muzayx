@@ -1,8 +1,12 @@
-<h1 align="left">Olá! Eu sou o Gabriel Muzaranho</h1>
+<h1 align="left">Gabriel Muzaranho</h1>
+
+###
+
+<h2 align="left">Hello, Devs!</h2>
 
 ###
 - 📚 Hoje cursando Técnico em Desenvolvimento de Sistemas<br><br>
-- 🐍 Aprendendo python e php<br><br>
+- 🌐 Aprimorando desenvolvimento Web Front-End<br><br>
 - ⚡ Front-end developer
 
 <br>
