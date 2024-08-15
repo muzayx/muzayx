@@ -1,4 +1,4 @@
-## Welcome everyone 😁
+## Welcome everyone! 💜
 <img align="right" height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
 <p align="left" text-align="justify">
   Me chamo Gabriel Muzaranho, tenho 17 anos e estou cursando o terceiro ano do ensino medio/tecnico em Desenvolvimento de Sistemas.<br/>
