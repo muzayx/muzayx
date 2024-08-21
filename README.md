@@ -5,7 +5,7 @@
   <em>My name is Gabriel Muzaranho, I'm 17 years old and I'm studying my third year of high school/technical education in Systems Development.</em>
 </p>
 <p align="left" text-align="justify">
-  🎯 Estou focado em: | <em>I'm focused on:</em>Estudar e aprender novas tecnologias em desenvolvimento frontend | <em>Study and learn new technologies in frontend development</em><br/>
+  🎯 Estou focado em: | <em>I'm focused on: </em>Estudar e aprender novas tecnologias em desenvolvimento frontend | <em>Study and learn new technologies in frontend development</em><br/>
 </p>
 
 ## 💻 Technologies:
