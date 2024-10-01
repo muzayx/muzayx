@@ -8,6 +8,8 @@
   🎯 Estou focado em: | <em>I'm focused on: </em>Estudar e aprender novas tecnologias em desenvolvimento frontend | <em>Study and learn new technologies in frontend development</em><br/>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Testando+esasa+bosta)](https://git.io/typing-svg)
+
 ## 💻 Technologies:
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
