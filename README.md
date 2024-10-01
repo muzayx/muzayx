@@ -1,4 +1,8 @@
 <div align="center">
+  <span style="color: purple;">Gabriel Muzaranho</span>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=25&duration=4991&pause=1000&color=7a0dba&background=FFFFFF00&center=true&vCenter=true&random=true&width=680&lines=Bem-Vindo!;Sou+Desenvolvedor+Web+FrontEnd" alt="Typing SVG">
   </a>
