@@ -1,8 +1,15 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=25&color=7a0dba&background=FFFFFF00&center=true&vCenter=true&random=true&width=680&lines=Gabriel Muzaranho">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=25&duration=4991&pause=1000&color=7a0dba&background=FFFFFF00&center=true&vCenter=true&random=true&width=680&lines=Bem-Vindo!;Sou+Desenvolvedor+Web+FrontEnd" alt="Typing SVG">
   </a>
 </div>
+
 <p align="left" text-align="justify">
   🎯 Estou focado em: | <em>I'm focused on: </em>Estudar e aprender novas tecnologias em desenvolvimento frontend | <em>Study and learn new technologies in frontend development</em><br/>
 </p>
