@@ -1,10 +1,9 @@
 ##
 
 Welcome everyone! 💜
-<img align="right" height=150px width=150px src="https://user-images.githubusercontent.com/98707474/191408519-b9236392-4bde-4d2f-a4ee-bbf9ee631bda.png">
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=25&duration=4991&pause=1000&color=7a0dba&background=FFFFFF00&center=true&vCenter=true&random=true&width=680&lines=Olá!%F0%9F%91%8B+Meu+nome+é+Gabriel+Muzaranho;Sou+Desenvolvedor+Web+FrontEnd" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=25&duration=4991&pause=1000&color=7a0dba&background=FFFFFF00&center=true&vCenter=true&random=true&width=680&lines=Opa!%F0%9F%91%8B+Meu+nome+é+Gabriel+Muzaranho;Sou+Desenvolvedor+Web+FrontEnd" alt="Typing SVG">
   </a>
 </div>
 <p align="left" text-align="justify">
