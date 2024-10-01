@@ -1,9 +1,11 @@
-##
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Gabriel Muzaranho" /></a>
+</p>
 
-Welcome everyone! 💜
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=25&duration=4991&pause=1000&color=7a0dba&background=FFFFFF00&center=true&vCenter=true&random=true&width=680&lines=Opa!%F0%9F%91%8B+Meu+nome+é+Gabriel+Muzaranho;Sou+Desenvolvedor+Web+FrontEnd" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=25&duration=4991&pause=1000&color=7a0dba&background=FFFFFF00&center=true&vCenter=true&random=true&width=680&lines=Bem-Vindo!;Sou+Desenvolvedor+Web+FrontEnd" alt="Typing SVG">
   </a>
 </div>
 <p align="left" text-align="justify">
