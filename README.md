@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=882df7&height=120&section=header"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rodada+Varela&letterSpacing=&duration=1&pause=1000&color=ff1f5e&center=true&vCenter=true&repeat=false&width=700&lines=Gabriel+Muzaranho" alt="Typing SVG" /></a>
@@ -45,6 +46,8 @@
 ##
 
 <div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=882df7&height=120&section=footer"/>
 <p align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muzayx/muzayx/output/github-contribution-grid-snake-dark.svg">
