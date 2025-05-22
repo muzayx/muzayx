@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=96145e&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=570a66&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=b5476f&width=435&lines=Hey+there!%2C+I'm+Muza+👋)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -39,4 +39,4 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
   <img src="https://profile-counter.glitch.me/muzayx/count.svg" />  
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=96145e&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=570a66&height=120&section=footer"/>
