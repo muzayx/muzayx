@@ -16,6 +16,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=blue)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs&logoColor=black)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
@@ -24,6 +25,8 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/muzayx/count.svg" />  
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="https://www.linkedin.com/in/muzaranho/" target="_blank"><img align="left" alt="Muza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://github.com/muzayx" target="_blank"><img align="left" alt="Muza | GITHUB" width="22px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" /></a>
