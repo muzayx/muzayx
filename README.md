@@ -13,6 +13,7 @@ I'm Gabriel — but most folks know me as **Muza**. I'm an 18-year-old front-end
 Currently, I'm diving deep into the world of modern web development, honing my skills with technologies like React, Next.js, and Tailwind CSS. I'm always eager to learn, collaborate, and contribute to projects that make a difference.
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to connect or collaborate!
+
 <a href="https://www.linkedin.com/in/muzaranho/" target="_blank"><img align="left" alt="Muza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://github.com/muzayx" target="_blank"><img align="left" alt="Muza | GITHUB" width="22px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" /></a>
 
