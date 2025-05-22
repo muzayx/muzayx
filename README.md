@@ -4,9 +4,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<a href="https://www.linkedin.com/in/muzaranho/" target="_blank"><img align="left" alt="Muza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="https://github.com/muzayx" target="_blank"><img align="left" alt="Muza | GITHUB" width="22px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" /></a>
-
 <br /><br /><br /><br />
 
 #### Languages:
@@ -20,14 +17,8 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs&logoColor=black)
 
 
-#### Softwares:
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=white)
-![Notepad++](https://img.shields.io/badge/-Notepad%2B%2B-333333?style=flat&logo=notepad%2B%2B)
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime%20text)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
-![Apache Netbeans](https://img.shields.io/badge/Apache%20Netbeans-333333?style=flat&logo=apache&logoColor=green)
+<a href="https://www.linkedin.com/in/muzaranho/" target="_blank"><img align="left" alt="Muza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://github.com/muzayx" target="_blank"><img align="left" alt="Muza | GITHUB" width="22px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
