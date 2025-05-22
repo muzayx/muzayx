@@ -8,7 +8,7 @@
 #### About myself:
 
 
-I'm Gabriel — but most folks know me as **Muza**. I'm an 18-year-old front-end developer passionate about crafting sleek, responsive, and accessible user interfaces. I thrive on transforming ideas into interactive web experiences that not only function flawlessly but also delight users.
+I'm Gabriel — but most folks know me as **Muza**. I'm an 18-year-old front-end developer!
 
 Currently, I'm diving deep into the world of modern web development, honing my skills with technologies like React, Next.js, and Tailwind CSS. I'm always eager to learn, collaborate, and contribute to projects that make a difference.
 
