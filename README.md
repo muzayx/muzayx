@@ -1,16 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=961438&height=120&section=header"/>
 
-<div align="center">
-  <a href="https://github.com/victormoreiraofc?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=BA9939&labelColor=383838&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/victormoreiraofc"/></a>
-  <a href="https://github.com/victormoreiraofc?tab=repositories&sort=stargazers">
-    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=BA9939&labelColor=383838&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/victormoreiraofc"/></a>
-  <a href="https://github.com/victormoreiraofc">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/victormoreiraofc?color=BA9939&labelColor=383838&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</div>
-<br />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BA9951&width=435&lines=Hello%2C+I'm+Victor+Moreira!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BA9951&width=435&lines=Hello%2C+I'm+Muza 💕)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
