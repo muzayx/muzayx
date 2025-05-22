@@ -5,25 +5,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <a href="https://www.linkedin.com/in/muzaranho/" target="_blank"><img align="left" alt="Muza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWtDvdCLXZLDmnzllrHdkgptsHnKMFNMhhLcrvgzcLZVnnRWmbhGqJfhRjtwzrMfMzswxbWVG" target="_blank"><img align="left" alt="Victor M | GMAIL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
 <a href="https://github.com/muzayx" target="_blank"><img align="left" alt="Muza | GITHUB" width="22px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" /></a>
 
 <br /><br /><br /><br />
 
-#### Languages and Tools:
+#### Languages:
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Scratch](https://img.shields.io/badge/-Scratch-333333?style=flat&logo=scratch&logoColor=FFA500)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=jameson&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=%231572B6)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Lua](https://img.shields.io/badge/Lua-333333?style=flat&logo=lua&logoColor=blue)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
 
 
 #### Softwares:
