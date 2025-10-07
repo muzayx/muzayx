@@ -31,12 +31,4 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/muzayx/count.svg" />  
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=570a66&height=120&section=footer"/>
